@@ -7,7 +7,7 @@ import {data} from '../data/data'
 
 const order = () => {
   return (
-    <div>order</div>
+    <div></div>
   )
 }
 
